@@ -4,8 +4,10 @@
 Este proyecto es una aplicación web básica construida con Flask que proporciona funcionalidades de autenticación de usuarios utilizando MongoDB como base de datos.
 
 
-<img src="assets/started.png" width="100" height="100">
-
+<img src="assets/started.png" width="100" height="240">
+<img src="assets/log in.png" width="100" height="240">
+<img src="assets/sign up.png" width="100" height="240">
+<img src="assets/profile.png" width="100" height="240">
 
 ## Características
 
