@@ -17,7 +17,7 @@ Este proyecto es una aplicación web básica construida con Flask que proporcion
 
 
 ## Requisitos
-- Python 3.x
+- Python 3.12.2
 - Flask
 - pymongo
 - MongoDB
