@@ -5,6 +5,7 @@ Este proyecto es una aplicación web básica construida con Flask que proporcion
 
 
 <img src="assets/started.png" width="240" height="100"> <img src="assets/log in.png" width="360" height="100">
+
 <img src="assets/sign up.png" width="360" height="100"> <img src="assets/profile.png" width="240" height="100">
 
 ## Características
