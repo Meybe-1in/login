@@ -1,0 +1,7 @@
+{% extends "layout.html" %}
+{% block title %}Profile{% endblock %}
+{% block content %}
+    <h1>Profile</h1>
+    <p>Welcome, {{ email }}</p>
+    <a href="{{ url_for('logout') }}" class="btn btn-danger">Logout</a>
+{% endblock %}

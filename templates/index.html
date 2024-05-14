@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="card border-primary mx-auto" style="max-width: 20rem;">
+    <div class="card-header">Get started!</div>
+    <div class="card-body">
+        <a href="{{ url_for('login') }}" class="btn btn-primary">Log in</a>
+        <a href="{{ url_for('register') }}" class="btn btn-secondary">Sing up</a>
+    </div>
+</div>
+{% endblock %}
